@@ -5,7 +5,7 @@ This repository contains the slides for a research seminar on **Retrieval-Augmen
 The seminar was presented at the **Machine Learning & Bioinformatics Lab, Pusan National University (PNU)** in 2026.
 
 <p align="center">
-  <img src="rag_overview.png" width="750">
+  <img src="RAG.png" width="750">
 </p>
 
 ## Presenter
