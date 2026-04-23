@@ -1,6 +1,8 @@
 # RAG Seminar
 
 This repository contains the slides for a research seminar on **Retrieval-Augmented Generation (RAG)**.
+Lewis et al., 2020  
+Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
 
 The seminar was presented at the **Machine Learning & Bioinformatics Lab, Pusan National University (PNU)** in 2026.
 
