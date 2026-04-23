@@ -33,3 +33,4 @@ This seminar introduces the fundamental concepts and recent developments in **Re
 ## Contact
 
 If you find any errors or have questions regarding the material, please feel free to contact:
+📧 jiwon_lee@pusan.ac.kr
